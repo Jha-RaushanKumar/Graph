@@ -14,3 +14,5 @@ Solved by: `Raushan Kumar Jha`
 | [01 Matrix](https://leetcode.com/problems/01-matrix/)                                         | BFS: [01-Matrix.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/01-Matrix.java)              |
 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                       | DFS/BFS: [Surrounded-Regions.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/Surrounded-Regions.java)    |
 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/)                        | DFS/BFS: [Number-Of-Enclaves.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/Number-Of-Enclaves.java)     |
+ [Number of Distinct Islands](https://practice.geeksforgeeks.org/problems/number-of-distinct-islands/1)    | DFS/BFS: [Number-Of-Distinct-Islands.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/Number-Of-Distinct-Islands.java)   |
+| [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                        | DFS/BFS: [Is-Graph-Bipartite.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/Is-Graph-Bipartite.java)     |
