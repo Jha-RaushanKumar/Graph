@@ -30,3 +30,4 @@ Solved by: `Raushan Kumar Jha`
 
 | Level | Problem                                                                                    | Solutions                                                  |
 |-------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|
+| Medium     | [Shortest path in Undirected Graph having unit distance](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)                       | BFS: [Shortest-Path-In-Undirected-Graph-having-Unit-Distance.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/Shortest-Path-Algorithms/Shortest-Path-In-Undirected-Graph-having-Unit-Distance.java)    |
