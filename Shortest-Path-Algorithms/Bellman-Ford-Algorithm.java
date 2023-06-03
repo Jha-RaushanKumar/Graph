@@ -74,5 +74,5 @@ class Solution {
 
 /*
 TC: O(V*E) 
-SC: O(N) [For pq]
+SC: O(N) [For dist]
 */
