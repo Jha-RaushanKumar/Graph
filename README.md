@@ -45,5 +45,5 @@ Solved by: `Raushan Kumar Jha`
 
 | Level | Problem                                                                                    | Solutions                                                  |
 |-------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| Medium     | [Minimum Spanning Tree](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)                       | Prims: [Minimum-Spanning-Tree(Prims).java](https://github.com/Jha-RaushanKumar/Graph/blob/main/MST-DisjointSets/Minimum-Spanning-Tree(Prims).java)    |
+| Medium     | [Prim's Algorithm](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)                       | Prims: [Minimum-Spanning-Tree(Prims).java](https://github.com/Jha-RaushanKumar/Graph/blob/main/MST-DisjointSets/Minimum-Spanning-Tree(Prims).java)    |
 | Easy     | [Disjoint set (Union-Find)](https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1)                       | Prims: [Disjoint-Set-(Union-Find).java](https://github.com/Jha-RaushanKumar/Graph/blob/main/MST-DisjointSets/Disjoint-Set-(Union-Find).java)    |
