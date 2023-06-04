@@ -47,7 +47,7 @@ class DisjointSet{
         for(int i = 0; i <= n; i++){
             parent.add(i);
             rank.add(0);
-            size.add(i);
+            size.add(1);
         }
     }
     
