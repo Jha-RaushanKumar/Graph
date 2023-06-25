@@ -2,6 +2,8 @@
 
 Solved by: `Raushan Kumar Jha`
 
+
+`DFS/BFS Algorithm`
 | Level | Problem                                                                                    | Solutions                                                  |
 |-------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | Easy     | [BFS Traversal of Graph](https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1)              | BFS: [BFS-Of-Graph.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/BFS-Of-Graph.java)                    |
@@ -19,6 +21,8 @@ Solved by: `Raushan Kumar Jha`
 | Hard     | [Word Ladder](https://leetcode.com/problems/word-ladder/)                        | BFS: [Word-Ladder.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/Word-Ladder.java)     |
 | Hard     | [Word Ladder-II](https://practice.geeksforgeeks.org/problems/word-ladder-ii/1)                        | BFS: [Word-Ladder-II.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/BFS-DFS/Word-Ladder-II.java)     |
 
+
+`Topological Sort Algorithm`
 | Level | Problem                                                                                    | Solutions                                                  |
 |-------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | Medium     | [Topological Sort](https://practice.geeksforgeeks.org/problems/topological-sort/1)                       | DFS/BFS(Kahn's Algo): [Topological-Sort.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/Topological-Sort/Topological-Sort.java)    |
@@ -28,6 +32,7 @@ Solved by: `Raushan Kumar Jha`
 | Medium     | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/)                        | DFS/BFS(Topo): [Find-Eventual-Safe-States.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/Topological-Sort/Find-Eventual-Safe-States.java)     |
 | Hard     | [Alien Dictionary](https://practice.geeksforgeeks.org/problems/alien-dictionary/1)                        | BFS(Topo): [Alien-Dictionary.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/Topological-Sort/Alien-Dictionary.java)     |
 
+`Shortest Path Algorithms`
 | Level | Problem                                                                                    | Solutions                                                  |
 |-------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | Medium     | [Shortest path in Undirected Graph having unit distance](https://practice.geeksforgeeks.org/problems/shortest-path-in-undirected-graph-having-unit-distance/1)                       | BFS: [Shortest-Path-In-Undirected-Graph-having-Unit-Distance.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/Shortest-Path-Algorithms/Shortest-Path-In-Undirected-Graph-having-Unit-Distance.java)    |
@@ -43,6 +48,7 @@ Solved by: `Raushan Kumar Jha`
 | Medium     | [Floyd Warshall Algorithm](https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1)                       | Floyd-Warshall: [Floyd-Warshall-Algorithm.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/Shortest-Path-Algorithms/Floyd-Warshall-Algorithm.java)    |
 | Medium     | [City With Smallest Number of Neighbors at Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)                       | Floyd-Warshall: [City-With-Smallest-Number-of-Neighbors-at-Threshold-Distance.java](https://github.com/Jha-RaushanKumar/Graph/blob/main/Shortest-Path-Algorithms/City-With-Smallest-Number-of-Neighbors-at-Threshold-Distance.java)    |
 
+`Minimum Spanning Tree Algorithms`
 | Level | Problem                                                                                    | Solutions                                                  |
 |-------|--------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | Medium     | [Prim's Algorithm](https://practice.geeksforgeeks.org/problems/minimum-spanning-tree/1)                       | Prim's: [Minimum-Spanning-Tree(Prims).java](https://github.com/Jha-RaushanKumar/Graph/blob/main/MST-DisjointSets/Prims-Algorithm.java)    |
